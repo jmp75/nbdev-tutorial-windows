@@ -5,4 +5,6 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://jmp75.github.io',
                 'git_url': 'https://github.com/jmp75/nbdev-tutorial-windows',
                 'lib_path': 'nbdev_tutorial_windows'},
-  'syms': {'nbdev_tutorial_windows.core': {'nbdev_tutorial_windows.core.foo': ('core.html#foo', 'nbdev_tutorial_windows/core.py')}}}
+  'syms': { 'nbdev_tutorial_windows.core': { 'nbdev_tutorial_windows.core.foo': ('core.html#foo', 'nbdev_tutorial_windows/core.py'),
+                                             'nbdev_tutorial_windows.core.say_hello': ( 'core.html#say_hello',
+                                                                                        'nbdev_tutorial_windows/core.py')}}}
