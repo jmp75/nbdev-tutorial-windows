@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev-tutorial-windows",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdev-tutorial-windows",
+    "section": "Install",
+    "text": "Install\npip install nbdev_tutorial_windows"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev-tutorial-windows",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source"
+  },
+  {
+    "objectID": "core.html#test-more-advanced-changes-see-what-they-result-in",
+    "href": "core.html#test-more-advanced-changes-see-what-they-result-in",
+    "title": "core",
+    "section": "Test more advanced changes see what they result in",
+    "text": "Test more advanced changes see what they result in\n\n\nHelloSayer\n\n HelloSayer (to)\n\nSay hello to to using say_hello"
+  }
+]
