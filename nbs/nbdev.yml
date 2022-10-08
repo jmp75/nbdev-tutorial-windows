@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "winbdev"
+  site-url: "https://jmp75.github.io/nbdev-tutorial-windows"
+  description: "Test nbdev when used natively on Windows."
+  repo-branch: main
+  repo-url: "https://github.com/jmp75/nbdev-tutorial-windows"
